@@ -1,4 +1,3 @@
-# car_price_prediction_with_random_forest_regressor
 Predicting car prices using real data with Random Forest Regressor
 
 # Avtomobil Qiymət Proqnozu (Random Forest)
